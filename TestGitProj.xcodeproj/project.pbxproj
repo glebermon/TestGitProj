@@ -101,7 +101,7 @@
 			children = (
 				9590C5ED290E4AB40038A723 /* AppDelegate.swift */,
 				9590C5EF290E4AB40038A723 /* SceneDelegate.swift */,
-				9590C5F1290E4AB40038A723 /* ViewController.swift */,
+				9590C61D290E4CC30038A723 /* Controller */,
 				9590C5F3290E4AB40038A723 /* Main.storyboard */,
 				9590C5F6290E4AB70038A723 /* Assets.xcassets */,
 				9590C5F8290E4AB70038A723 /* LaunchScreen.storyboard */,
@@ -125,6 +125,14 @@
 				9590C610290E4AB70038A723 /* TestGitProjUITestsLaunchTests.swift */,
 			);
 			path = TestGitProjUITests;
+			sourceTree = "<group>";
+		};
+		9590C61D290E4CC30038A723 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				9590C5F1290E4AB40038A723 /* ViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
